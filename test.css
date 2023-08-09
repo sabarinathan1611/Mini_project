@@ -41,8 +41,10 @@
     width: 1055px;
     height: 300px;
     margin-right: 50px;
-    border-radius: 10px;
-    background: #eee;
+    color: #fff;
+    border-radius: 25px;
+    backdrop-filter: blur(100px);
+    background: #eeeeee29;
     transform-origin: center center;
     transform: scale(1);
     transition: transform 0.5s;
